@@ -1,0 +1,2 @@
+For creating a local python server, use this command on your terminal or in bash in the proper directory:
+ "python -m http.server"
